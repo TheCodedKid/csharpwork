@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 3\\Enumeration Type\\Enumeration Type.csproj",
-      "projectName": "Enumeration Type",
-      "projectPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 3\\Enumeration Type\\Enumeration Type.csproj",
+      "projectUniqueName": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\Ex4.7\\Ex4.7.csproj",
+      "projectName": "Ex4.7",
+      "projectPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\Ex4.7\\Ex4.7.csproj",
       "packagesPath": "C:\\Users\\Sam's Pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 3\\Enumeration Type\\obj\\",
+      "outputPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\Ex4.7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam's Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
