@@ -6,7 +6,23 @@ namespace GCD
     {
         static void Main(string[] args)
         {
-            
+            int max;
+            int min;
+
+            Console.WriteLine("Enter the min and max value for the 3 different GCD methods.");
+            Console.Write("Max Value: ");
+            max = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Min Value: ");
+            min = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Brute Force Method: ");
+            Console.WriteLine(brute(max,min,min));
+
+            Console.Write("Euclid Method: ");
+            Console.WriteLine(euclid(max,min));
+
+            Console.Write("Dijkstra's Method: ");
+            Console.WriteLine(dijkstra(max,min));
         }
         static int brute(int m, int n, int g)
         {

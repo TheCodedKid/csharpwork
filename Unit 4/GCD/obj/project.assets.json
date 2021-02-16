@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\samue\\.nuget\\packages\\": {}
+    "C:\\Users\\Sam's Pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\Desktop\\C# Work\\Unit 4\\GCD\\GCD.csproj",
+      "projectUniqueName": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\GCD\\GCD.csproj",
       "projectName": "GCD",
-      "projectPath": "C:\\Users\\samue\\Desktop\\C# Work\\Unit 4\\GCD\\GCD.csproj",
-      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\Desktop\\C# Work\\Unit 4\\GCD\\obj\\",
+      "projectPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\GCD\\GCD.csproj",
+      "packagesPath": "C:\\Users\\Sam's Pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sam's Pc\\Desktop\\C# Work\\Classroom\\Unit 4\\GCD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sam's Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
