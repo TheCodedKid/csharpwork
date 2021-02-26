@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Midterm Exam 1/1.0.0": {
+        "runtime": {
+          "Midterm Exam 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm Exam 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
