@@ -1,0 +1,13 @@
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.exe
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.deps.json
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.runtimeconfig.json
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.runtimeconfig.dev.json
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.dll
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\bin\Debug\netcoreapp3.1\Delimit.pdb
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.csprojAssemblyReference.cache
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.AssemblyInfoInputs.cache
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.AssemblyInfo.cs
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.csproj.CoreCompileInputs.cache
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.dll
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.pdb
+C:\Users\Sam's Pc\Desktop\C# Work\Classroom\InClass\Delimit\Delimit\obj\Debug\netcoreapp3.1\Delimit.genruntimeconfig.cache
